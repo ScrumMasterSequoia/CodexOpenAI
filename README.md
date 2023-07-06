@@ -10,3 +10,8 @@ and generate a new api key, then restart your client and server to use
 
 currently this version of the project is broken for the above reason, as .gitignore failed to stop 
 the .env file, which contains the api key, from being brought into the github. 
+
+to access a functional version of this program, go to the CodexLocal repo and work from there. 
+
+source: https://www.youtube.com/watch?v=2FeymQoKvrk&t=360s
+source video name: Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning
