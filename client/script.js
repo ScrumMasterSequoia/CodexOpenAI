@@ -85,7 +85,7 @@ const handleSubmit = async (e) => {
 
 // fetch data from server
 
-  const response = await fetch('https://codex-ai-wvdj.onrender.com/', {
+  const response = await fetch('codex-open-ai-teal.vercel.app', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
