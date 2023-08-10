@@ -148,6 +148,6 @@ form img {
 }
 @media screen and (max-width: 800px){
   textarea{
-    padding-bottom: 7em;
+    padding-bottom: 12em;
   }
 }
