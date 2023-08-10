@@ -148,15 +148,24 @@ form img {
 }
 @media screen and (max-width: 1200px){
   .wrapper{
-    height: 100%;
+    height: 50%;
   }
-}
-@media screen and (min-width: 400px){
-  .chat_container {
+  #chat_container {
     height: 50%;
   }
   .textarea{
-    padding-bottom: 100em;
+    padding-bottom: 100px;
+
+  }
+
+}
+@media screen and (max-width: 800px){
+  .chat_container {
+    height: 50%;
+    
+  }
+  textarea{
+    padding-bottom: 3em;
 
   }
 }
