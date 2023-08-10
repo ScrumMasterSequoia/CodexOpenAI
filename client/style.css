@@ -60,6 +60,7 @@ body {
 
   display: flex;
   flex-direction: row;
+  align-items: flex-start;
   gap: 10px;
 }
 
@@ -160,6 +161,9 @@ form img {
   #chat_container {
     width: 90%;
     height: 80%;
+  }
+  textarea{
+    padding-bottom: 3.5em;
   }
   #app {
     height: 85vh;
