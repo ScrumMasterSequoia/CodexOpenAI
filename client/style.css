@@ -35,7 +35,6 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 
-  padding-bottom: 20px;
   scroll-behavior: smooth;
 }
 
@@ -154,6 +153,6 @@ form img {
 }
 @media screen and (max-width: 800px){
   #chat_container {
-    height: 500px;
+    padding-bottom: 800px;
   }
 }
