@@ -151,7 +151,7 @@ form img {
     height: 100%;
   }
 }
-@media screen and (max-width: 800px){
+@media screen and (min-width: 400px){
   .chat_container {
     height: 50%;
   }
