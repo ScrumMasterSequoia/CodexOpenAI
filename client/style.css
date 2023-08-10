@@ -47,10 +47,16 @@ body {
 .wrapper {
   width: 100%;
   padding: 15px;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
 }
 
 .ai {
   background: #28282e;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
 }
 
 .chat {
@@ -74,10 +80,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
 }
 
 .ai .profile {
   background: #10a37f;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
 }
 
 .profile img {
@@ -94,6 +106,7 @@ body {
   text-align: start;
   max-width: 100%;
   overflow-x: scroll;
+  
 
   /*
    * white space refers to any spaces, tabs, or newline characters that are used to format the CSS code
