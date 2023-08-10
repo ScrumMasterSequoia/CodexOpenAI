@@ -153,7 +153,7 @@ form img {
   }
 }
 @media screen and (max-width: 800px){
-  .wrapper{
+  #chat_container {
     height: 30%;
   }
 }
