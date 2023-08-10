@@ -77,7 +77,6 @@ const handleSubmit = async (e) => {
   chatContainer.innerHTML += chatStripe(true, "", uniqueId);
 
   chatContainer.scrollTop = chatContainer.scrollHeight;
-  window.scrollTo(0,document.body.scrollHeight);
   
   const messageDiv = document.getElementById(uniqueId);
   messageDiv.id = generateUniqueId();  
