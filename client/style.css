@@ -148,12 +148,12 @@ form img {
   width: 30px;
   height: 30px;
 }
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 800px){
   #app {
-    height: 120vh;
+    height: 100vh;
   }
 }
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 799px){
   form img {
     width: 40px;
     height: 40px;
