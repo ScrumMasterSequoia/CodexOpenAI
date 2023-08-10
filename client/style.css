@@ -152,10 +152,10 @@ form img {
   }
 }
 @media screen and (max-width: 800px){
-  #chat_container {
+  .chat_container {
     height: 50%;
   }
-  #textarea{
+  .textarea{
     padding-bottom: 100em;
 
   }
