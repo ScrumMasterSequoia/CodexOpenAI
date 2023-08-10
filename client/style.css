@@ -152,7 +152,11 @@ form img {
   }
 }
 @media screen and (max-width: 800px){
-  #chat_container {
+  /* #chat_container {
     padding-bottom: 100px;
+  } */
+  #textarea{
+    padding-bottom: 100px;
+
   }
 }
