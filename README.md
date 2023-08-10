@@ -18,4 +18,4 @@ source video name: Build and Deploy Your Own ChatGPT AI App in JavaScript | Open
 
 Domain through Vercel https://vercel.com/
 
-api key hosting through Render https://render.com/
+server through Render https://render.com/
