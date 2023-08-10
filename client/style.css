@@ -13,7 +13,7 @@ body {
 
 #app {
   width: 100vw;
-  height: 95vh;
+  height: 85vh;
   background: #343541;
 
   display: flex;
@@ -148,7 +148,7 @@ form img {
 }
 @media screen and (max-width: 800px){
   textarea{
-    padding-bottom: 10em;
+    padding-bottom: 8em;
   }
   form img {
     width: 50px;
