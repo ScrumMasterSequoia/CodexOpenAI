@@ -35,6 +35,7 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 
+  padding-bottom: 20px;
   scroll-behavior: smooth;
 }
 
