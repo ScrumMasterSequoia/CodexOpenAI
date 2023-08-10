@@ -15,3 +15,7 @@ to access a functional version of this program, go to the CodexLocal repo and wo
 
 source: https://www.youtube.com/watch?v=2FeymQoKvrk&t=360s
 source video name: Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning
+
+Domain through Vercel https://vercel.com/
+
+api key hosting through Render https://render.com/
