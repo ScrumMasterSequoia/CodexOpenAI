@@ -154,6 +154,6 @@ form img {
 }
 @media screen and (max-width: 800px){
   .wrapper{
-    height: 60%;
+    height: 30%;
   }
 }
